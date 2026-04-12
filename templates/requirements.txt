@@ -1,6 +1,5 @@
 flask
 torch
 torchvision
-tensorflow
 pillow
 gunicorn
